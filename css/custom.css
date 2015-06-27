@@ -1,0 +1,35 @@
+a {
+    -moz-transition: all 0.5s ease-out;  /* FF4+ */
+    -o-transition: all 0.5s ease-out;  /* Opera 10.5+ */
+    -webkit-transition: all 0.5s ease-out;  /* Saf3.2+, Chrome */
+    -ms-transition: all 0.5s ease-out;  /* IE10? */
+    transition: all 0.5s ease-out;  	
+}
+
+.container {
+	background-color:black;
+}
+.nav-container {
+	border:1px solid #EEE;
+	margin:10px 0px;
+
+}
+
+footer {
+	border-top:1px solid #EEE;
+	padding-top:10px;
+	margin-top:30px!important;
+}
+
+h1 {
+	text-decoration: blink;
+	color: white;
+}
+
+h4 {
+	color: white;
+	margin: 2px solid color white;
+}
+
+
+p{color: white; text-decoration: blink;}
